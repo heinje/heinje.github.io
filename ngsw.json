@@ -10,7 +10,7 @@
         "/favicon.ico",
         "/index.html",
         "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.ce439ce0cf40d925331b.bundle.js",
+        "/main.b5ca846ba2c7d25c05ef.bundle.js",
         "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
         "/styles.ac89bfdd6de82636b768.bundle.css"
       ],
@@ -20,17 +20,22 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [],
+      "urls": [
+        "/assets/Silence.mp3",
+        "/assets/Silence.ogg"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/main.ce439ce0cf40d925331b.bundle.js": "28c262c0b46cfb2b4f302edbaff92a4029afcde6",
+    "/assets/Silence.mp3": "d74a6d1ed69d1dd6e8d75698cece672f75fdcb10",
+    "/main.b5ca846ba2c7d25c05ef.bundle.js": "13681cf856a8ada4b4c08888d68be38613e53abe",
+    "/assets/Silence.ogg": "b2380cee732893ae1f2511cbecf59608bf00812d",
     "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
     "/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "6edd9dab4ce7980dc032cd1b02451c82d7763cc7"
+    "/index.html": "34d1f6ea4f38f22c73292445ec61e73bcb570363"
   }
 }
