@@ -10,7 +10,7 @@
         "/favicon.ico",
         "/index.html",
         "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.26a14c096e5b4a9f59d9.bundle.js",
+        "/main.fe9bf4b13ed2175b1761.bundle.js",
         "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
         "/styles.ac89bfdd6de82636b768.bundle.css"
       ],
@@ -21,6 +21,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/ping.js",
         "/assets/Silence.mp3",
         "/assets/Silence.ogg"
       ],
@@ -30,12 +31,13 @@
   "dataGroups": [],
   "hashTable": {
     "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/assets/ping.js": "c7a51ab24604b53ce57cc32438ac3aec0bf5ac6a",
+    "/main.fe9bf4b13ed2175b1761.bundle.js": "d59f1f643537b56e451c7f77d142b5eb43046e4d",
     "/assets/Silence.mp3": "d74a6d1ed69d1dd6e8d75698cece672f75fdcb10",
-    "/main.26a14c096e5b4a9f59d9.bundle.js": "0960b52ab9c82a4587d8ee10c434604b2e7b82c5",
-    "/assets/Silence.ogg": "b2380cee732893ae1f2511cbecf59608bf00812d",
     "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
+    "/assets/Silence.ogg": "b2380cee732893ae1f2511cbecf59608bf00812d",
     "/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "eccbb97ceae13134f141228f26acc690c1ffac14"
+    "/index.html": "84cca266dc9d3770772b3c03655d41d9148c27c1"
   }
 }
